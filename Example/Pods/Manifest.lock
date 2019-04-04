@@ -1,0 +1,16 @@
+PODS:
+  - MJBundleHelp (0.1.0)
+
+DEPENDENCIES:
+  - MJBundleHelp (from `../`)
+
+EXTERNAL SOURCES:
+  MJBundleHelp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MJBundleHelp: 1a16f104dd9720abd9e09b0d4393819472f4fc5c
+
+PODFILE CHECKSUM: 1ee0c6d0d9fcf2c899655e679558012e8557322b
+
+COCOAPODS: 1.6.0
