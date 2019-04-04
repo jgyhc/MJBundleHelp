@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MJBundleHelp_Tests' do
+  pod 'MJBundleHelp', :path => '../'
+  
+  
+end
